@@ -1,0 +1,15 @@
+/Users/kientrung/Desktop/baitapthuhanh/bin/Debug/net6.0/baitapthuhanh
+/Users/kientrung/Desktop/baitapthuhanh/bin/Debug/net6.0/baitapthuhanh.deps.json
+/Users/kientrung/Desktop/baitapthuhanh/bin/Debug/net6.0/baitapthuhanh.runtimeconfig.json
+/Users/kientrung/Desktop/baitapthuhanh/bin/Debug/net6.0/baitapthuhanh.dll
+/Users/kientrung/Desktop/baitapthuhanh/bin/Debug/net6.0/baitapthuhanh.pdb
+/Users/kientrung/Desktop/baitapthuhanh/obj/Debug/net6.0/baitapthuhanh.csproj.AssemblyReference.cache
+/Users/kientrung/Desktop/baitapthuhanh/obj/Debug/net6.0/baitapthuhanh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kientrung/Desktop/baitapthuhanh/obj/Debug/net6.0/baitapthuhanh.AssemblyInfoInputs.cache
+/Users/kientrung/Desktop/baitapthuhanh/obj/Debug/net6.0/baitapthuhanh.AssemblyInfo.cs
+/Users/kientrung/Desktop/baitapthuhanh/obj/Debug/net6.0/baitapthuhanh.csproj.CoreCompileInputs.cache
+/Users/kientrung/Desktop/baitapthuhanh/obj/Debug/net6.0/baitapthuhanh.dll
+/Users/kientrung/Desktop/baitapthuhanh/obj/Debug/net6.0/refint/baitapthuhanh.dll
+/Users/kientrung/Desktop/baitapthuhanh/obj/Debug/net6.0/baitapthuhanh.pdb
+/Users/kientrung/Desktop/baitapthuhanh/obj/Debug/net6.0/baitapthuhanh.genruntimeconfig.cache
+/Users/kientrung/Desktop/baitapthuhanh/obj/Debug/net6.0/ref/baitapthuhanh.dll
